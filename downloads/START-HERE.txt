@@ -1,0 +1,17 @@
+PRISM RUSH — SPOTLIGHT EDITION
+
+1. Extract this ZIP if necessary.
+2. Open Roblox Studio on your Mac or Windows computer.
+3. Stop any active test (red square at top left).
+4. Choose File > Open from File... and select PrismRush.rbxl.
+   On Mac the File menu is in the menu bar at the very top of your screen.
+5. Press Play. The arena is created when Play starts.
+
+Do not paste a place file into a Script editor.
+The .rbxl file already contains all the scripts.
+
+R reload | Q weapon | Shift dash | E shield pulse | C color | V comfort
+Left mouse fire | Hold right mouse aim
+
+The cloud build and standalone rule tests passed.
+Roblox Studio gameplay has not been tested on this cloud machine.

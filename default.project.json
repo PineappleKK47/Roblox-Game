@@ -1,0 +1,12 @@
+{
+  "name": "PrismRush",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {"Shared": {"$path": "src/shared"}},
+    "ServerScriptService": {"Game": {"$path": "src/server"}},
+    "StarterPlayer": {"StarterPlayerScripts": {"Game": {"$path": "src/client"}}},
+    "Workspace": {"$properties": {"FilteringEnabled": true}},
+    "Lighting": {"$properties": {"ClockTime": 14, "Brightness": 2, "Ambient": [0.55, 0.45, 0.65]}},
+    "SoundService": {"$properties": {"RespectFilteringEnabled": true}}
+  }
+}
